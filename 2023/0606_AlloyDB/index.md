@@ -2,7 +2,7 @@ AlloyDB について
 ---
 
 <div style="color: #F15B5B;">
-AlloyDBがプレビュー段階の情報も参考に記述しています。<br>
+AlloyDBがプレビュー段階の情報も参考に記述しています。  
 最新の情報については<a href="https://cloud.google.com/alloydb/docs/overview" target="_brank">公式</a>を参照してください。
 </div>
 
@@ -28,8 +28,7 @@ Google Cloud が提供しているフルマネージドの HTAP 対応 PostgreSQ
 
 - OLAP
     - 標準の PostgreSQL より最大 100 倍高速
-<br>
-<br>
+
 # アーキテクチャ
 
 ## 全体像
@@ -163,8 +162,7 @@ AlloyDB は、OLTP と OLAP を両立した HTAP に対応しています。
 上記に加え、SIMD 機能も利用し、クエリの高速化を図っています。
 
 このカラム型エンジンは、列数の多いテーブルのうち、ほんの一部の列にしかアクセスしないようなクエリで特にパフォーマンスを発揮します。
-<br>
-<br>
+
 # サービス比較
 
 ## AlloyDB vs Cloud SQL vs Cloud Spanner
@@ -192,8 +190,7 @@ AlloyDB は、OLTP と OLAP を両立した HTAP に対応しています。
 同じく HTAP データベースである TiDB を提供している PingCAP 社の記事をご覧ください。
 
 [HTAPの魅力：TiDBとAlloyDBの比較・分析](https://pingcap.co.jp/the-beauty-of-htap-tidb-and-alloydb-as-examples/)
-<br>
-<br>
+
 # その他便利機能
 
 ## Query Insight
@@ -210,8 +207,7 @@ AlloyDB は、OLTP と OLAP を両立した HTAP に対応しています。
 ## AlloyDB Omni
 
 AlloyDB のダウンロード版で、任意の Linux 環境で利用できるようにしたものです。
-<br>
-<br>
+
 # 参考文献
 
 - [AlloyDB overview](https://cloud.google.com/alloydb/docs/overview)
