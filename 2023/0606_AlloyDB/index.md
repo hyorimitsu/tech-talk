@@ -34,7 +34,7 @@ Google Cloud が提供しているフルマネージドの HTAP 対応 PostgreSQ
 ## 全体像
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/0606_AlloyDB/img/overall.png?raw=true" width="80%" alt="alloydb_overall">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/overall.png?raw=true" width="80%" alt="alloydb_overall">
 </div>
 <br>
 
@@ -51,7 +51,7 @@ Google Cloud が提供しているフルマネージドの HTAP 対応 PostgreSQ
 ## ストレージレイヤ
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/0606_AlloyDB/img/storage_layer.png?raw=true" width="80%" alt="alloydb_storage_layer">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/storage_layer.png?raw=true" width="80%" alt="alloydb_storage_layer">
 </div>
 <br>
 
@@ -76,7 +76,7 @@ Google Cloud が提供しているフルマネージドの HTAP 対応 PostgreSQ
 ### 書き込み処理
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/0606_AlloyDB/img/writes_flow.png?raw=true" width="80%" alt="alloydb_write_flow">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/writes_flow.png?raw=true" width="80%" alt="alloydb_write_flow">
 </div>
 <br>
 
@@ -96,7 +96,7 @@ AlloyDB では、その責務をストレージ側に任せて、プライマリ
 ### 読み取り処理
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/0606_AlloyDB/img/reads_flow.png?raw=true" width="80%" alt="alloydb_read_flow">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/reads_flow.png?raw=true" width="80%" alt="alloydb_read_flow">
 </div>
 <br>
 
@@ -123,7 +123,7 @@ LPS は、さらに PostgreSQL のバッファキャッシュインターフェ�
 ### 弾力性
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/0606_AlloyDB/img/elasticity.jpg?raw=true" width="80%" alt="alloydb_elasticity"><br>
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/elasticity.jpg?raw=true" width="80%" alt="alloydb_elasticity"><br>
     Figure 5: Dynamic mapping of shards to LPS instances allows for load balancing and LPS elasticity<br>
     <a href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage?hl=en" target="_blank">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage?hl=en</a> より引用
 </div>
@@ -146,7 +146,7 @@ AlloyDB は、OLTP と OLAP を両立した HTAP に対応しています。
 ### AlloyDB の実行エンジン
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/0606_AlloyDB/img/hybrid_scan.png?raw=true" width="80%" alt="alloydb_hybrid_scan">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/hybrid_scan.png?raw=true" width="80%" alt="alloydb_hybrid_scan">
 </div>
 <br>
 

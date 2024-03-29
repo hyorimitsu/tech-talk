@@ -22,7 +22,7 @@ OpenPubkey の前に、前提知識である OIDC について簡単に紹介し
 ## 仕組み
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/1010_OpenPubkey/img/openpubkey_how_oidc_work.png?raw=true" width="80%" alt="openpubkey_how_oidc_work">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1010_OpenPubkey/img/openpubkey_how_oidc_work.png?raw=true" width="80%" alt="openpubkey_how_oidc_work">
 </div>
 <br>
 
@@ -53,7 +53,7 @@ OIDC について簡単に理解したところで、OpenPubkey について紹�
 ## 仕組み
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/1010_OpenPubkey/img/openpubkey_how_openpubkey_work.png?raw=true" width="80%" alt="openpubkey_how_openpubkey_work">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1010_OpenPubkey/img/openpubkey_how_openpubkey_work.png?raw=true" width="80%" alt="openpubkey_how_openpubkey_work">
 </div>
 <br>
 
@@ -97,7 +97,7 @@ OIDC の仕組みは、IdP がユーザの身元を正確に証明している�
 
 <div style="text-align: center;">
     <div>
-      <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2023/1010_OpenPubkey/img/openpubkey_compare_security.png?raw=true" width="80%" alt="openpubkey_compare_security">
+      <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1010_OpenPubkey/img/openpubkey_compare_security.png?raw=true" width="80%" alt="openpubkey_compare_security">
     </div>
     <a href="https://www.bastionzero.com/blog/bastionzeros-openpubkey-why-i-think-it-is-the-most-important-security-research-ive-done" target="_blank">BastionZero’s OpenPubkey: A new approach to cryptographic signatures</a> より引用
 </div>
