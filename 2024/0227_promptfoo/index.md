@@ -129,7 +129,7 @@ npx promptfoo@latest view
 評価結果は以下の画像の通り、`prompts`, `providers`, `tests` の組み合わせを網羅した結果をテーブル形式で見ることができます。
 
 <div style="text-align:center">
-  <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0227_promptfoo/img/simple_result.png" alt="promptfoo_result_web_view" width="95%" />
+  <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0227_promptfoo/img/simple_result.png?raw=true" alt="promptfoo_result_web_view" width="95%" />
 </div><br>
 
 この場合、`Write a funny tweet about AWS, Google Cloud and Azure with ...` というプロンプトで `gpt-4` を利用した場合のみすべてのテストケースが通っていることが分かります。  
@@ -219,7 +219,7 @@ jobs:
 
 <div style="display: flex; justify-content: center;">
   <div style="width: 95%;">
-    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0227_promptfoo/img/github-actions-comment-success.png" alt="promptfoo-result-github-actions" />
+    <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0227_promptfoo/img/github-actions-comment-success.png?raw=true" alt="promptfoo-result-github-actions" />
     <p style="font-size: small;">※「使い方 (CLI) > テストケースの定義 > 定義例」の定義ファイルとは別のものを実行した結果です</p>
   </div>
 </div>

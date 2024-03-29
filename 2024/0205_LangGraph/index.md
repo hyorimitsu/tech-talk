@@ -19,11 +19,11 @@ LangChain では LCEL (LangChain Expression Language) を用いることで Chai
 例えば、以下のようなグラフ構造を構築することができます。
 
 <div style="text-align:center">
-  <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0205_LangGraph/img/langgraph_multi_agent_diagram.png" alt="langgraph_multi_agent_diagram" />
+  <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0205_LangGraph/img/langgraph_multi_agent_diagram.png?raw=true" alt="langgraph_multi_agent_diagram" />
   <a href="https://blog.langchain.dev/langgraph-multi-agent-workflows/" target="_blank">https://blog.langchain.dev/langgraph-multi-agent-workflows/</a> より引用
 </div>
 <div style="text-align:center">
-  <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0205_LangGraph/img/langgraph_supervisor_diagram.png" alt="langgraph_supervisor_diagram" />
+  <img src="https://github.com/hyorimitsu/tech-talk/tree/main/2024/0205_LangGraph/img/langgraph_supervisor_diagram.png?raw=true" alt="langgraph_supervisor_diagram" />
   <a href="https://blog.langchain.dev/langgraph-multi-agent-workflows/" target="_blank">https://blog.langchain.dev/langgraph-multi-agent-workflows/</a> より引用
 </div>
 
