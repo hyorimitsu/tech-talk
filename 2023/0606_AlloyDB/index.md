@@ -2,7 +2,7 @@ AlloyDB について
 ---
 
 <div style="color: #F15B5B;">
-AlloyDBがプレビュー段階の情報も参考に記述しています。  
+AlloyDBがプレビュー段階の情報も参考に記述しています。<br>
 最新の情報については<a href="https://cloud.google.com/alloydb/docs/overview" target="_brank">公式</a>を参照してください。
 </div>
 
@@ -123,7 +123,7 @@ LPS は、さらに PostgreSQL のバッファキャッシュインターフェ�
 ### 弾力性
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/elasticity.jpg?raw=true" width="80%" alt="alloydb_elasticity"><br>
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/img/elasticity.png?raw=true" width="80%" alt="alloydb_elasticity"><br>
     Figure 5: Dynamic mapping of shards to LPS instances allows for load balancing and LPS elasticity<br>
     <a href="https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage?hl=en" target="_blank">https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage?hl=en</a> より引用
 </div>

@@ -7,7 +7,7 @@ Google Cloud Next '23 に現地参加しています。
 １日目の Opening Keynote では多くの発表がありましたが、ここではそのうちの１つである AlloyDB AI について簡単に紹介します。
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0829_GoogleCloudNext23-report/img/google-cloud-next-23-opening-keynote.jpg?raw=true" width="80%" alt="google-cloud-next-23-opening-keynote-alloydb-ai"><br>
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/0829_GoogleCloudNext23-report/img/google-cloud-next-23-opening-keynote.jpeg?raw=true" width="80%" alt="google-cloud-next-23-opening-keynote-alloydb-ai"><br>
     （画像は Day2 の Developer Keynote のときの写真です）
 </div>
 <br>

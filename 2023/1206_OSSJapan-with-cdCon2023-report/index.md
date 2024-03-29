@@ -6,7 +6,7 @@ Open Source Summit Japan 2023 + cdCon 参加レポート
 [The Linux Foundation](https://www.linuxfoundation.org/) が主催する [Open Source Summit Japan 2023](https://events.linuxfoundation.org/open-source-summit-japan/) および、[CD Foundation (Linux Foundation 傘下の団体)](https://cd.foundation/) が主催する [cdCon](https://cd.foundation/cdcon-japan-2023/) が 2023年12月4日（月） ~ 2023年12月6日（水） の 3 日間にわたって開催されました。
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/ossummit2023__curtain.jpg?raw=true" width="50%" alt="ossummit2023__curtain">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/ossummit2023__curtain.jpeg?raw=true" width="50%" alt="ossummit2023__curtain">
 </div>
 <br>
 
@@ -60,7 +60,7 @@ Rust の導入は時間がかかると思いますが、今後の展開が楽し
 聴講者も参加可能なゲームアプリに新機能を追加するデモもあり、実践的な使い方を分かりやすく紹介していただきました。
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/cdcon2023_session_game.jpg?raw=true" width="80%" alt="cdcon2023_session_game">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/cdcon2023_session_game.jpeg?raw=true" width="80%" alt="cdcon2023_session_game">
 </div>
 <br>
 
@@ -72,6 +72,6 @@ Rust の導入は時間がかかると思いますが、今後の展開が楽し
 これらのイベントは定期的に開催されているので、気になった方は是非参加してみてください。
 
 <div style="text-align: center;">
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/ossummit2023_linuc.jpg?raw=true" width="49%" alt="ossummit2023_linuc">
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/ossumit_cdcon_2023_swag.jpg?raw=true" width="49%" alt="ossumit_cdcon_2023_swag">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/ossummit2023_linuc.jpeg?raw=true" width="49%" alt="ossummit2023_linuc">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/img/ossumit_cdcon_2023_swag.jpeg?raw=true" width="49%" alt="ossumit_cdcon_2023_swag">
 </div>
