@@ -21,7 +21,7 @@ LangChain では LCEL (LangChain Expression Language) を用いることで Chai
 <div style="text-align:center">
   <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/0205_LangGraph/img/langgraph_multi_agent_diagram.png?raw=true" alt="langgraph_multi_agent_diagram" />
   <a href="https://blog.langchain.dev/langgraph-multi-agent-workflows/" target="_blank">https://blog.langchain.dev/langgraph-multi-agent-workflows/</a> より引用
-</div>
+</div><br>
 <div style="text-align:center">
   <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/0205_LangGraph/img/langgraph_supervisor_diagram.png?raw=true" alt="langgraph_supervisor_diagram" />
   <a href="https://blog.langchain.dev/langgraph-multi-agent-workflows/" target="_blank">https://blog.langchain.dev/langgraph-multi-agent-workflows/</a> より引用
@@ -156,7 +156,7 @@ It also supports workflows that aren't explicitly captured by "conversations".
 ```
 <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://blog.langchain.dev/langgraph-multi-agent-workflows/" target="_blank">LangGraph: Multi-Agent Workflows</a> より引用
-</div>
+</div><br>
 
 `AutoGen` はエージェント間のインタラクションを「会話」として表現しているのに対し、`LangGraph` はグラフとして表現するアプローチをとっています。  
 これにより、`LangGraph` ではワークフローの各ステップを明確に定義し、その間の遷移確率を細かく管理することができるため、より直感的に複雑なマルチエージェントシステムの構築が可能であるとのことです。
