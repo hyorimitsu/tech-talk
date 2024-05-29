@@ -5,6 +5,7 @@ Tech Talk
 
 - [AlloyDB](https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/index.md)
 - [AutoML](https://github.com/hyorimitsu/tech-talk/blob/main/2021/0127_AutoML.key)
+- [Bootable Container Image](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0529_BootableContainerImage/index.md)
 - [Cloud Profiler](https://github.com/hyorimitsu/tech-talk/blob/main/2020/1014_CloudProfiler.key)
 - [Coq](https://github.com/hyorimitsu/tech-talk/blob/main/2019/1111_Coq.key)
 - [eBPF](https://github.com/hyorimitsu/tech-talk/blob/main/2021/1011_eBPF.key)
