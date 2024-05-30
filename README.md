@@ -17,6 +17,7 @@ Tech Talk
 - [OpenPubkey](https://github.com/hyorimitsu/tech-talk/blob/main/2023/1010_OpenPubkey/index.md)
 - [OpenSLO](https://github.com/hyorimitsu/tech-talk/blob/main/2022/1116_OpenSLO.key)
 - [promptfoo](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0227_promptfoo/index.md)
+- [React Compiler](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0530_ReactCompiler/index.md)
 - [Secure by Default](https://github.com/hyorimitsu/tech-talk/blob/main/2021/0721_SecureByDefault.key)
 - [Stream Data Processing](https://github.com/hyorimitsu/tech-talk/blob/main/2020/0729_StreamDataProcessing.key)
 - [Temporal.io](https://github.com/hyorimitsu/tech-talk/blob/main/2022/0608_Temporalio.key)
