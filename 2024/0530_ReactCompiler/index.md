@@ -90,14 +90,14 @@ export default App
 一方の Counter を更新した際に、もう一方の Counter と Header も再レンダリングされてしまっていることが分かります。
 
 <div style="text-align:center">
-  <video src="./mov/no-react-compiler-rendering.mov" width="90%" controls="true"></video>
+  <video src="https://github.com/hyorimitsu/tech-talk/assets/52403055/2ca5750f-5448-4ceb-964e-7ba5f298d793" width="90%" controls="true"></video>
 </div><br>
 
 次に、React Compiler を利用した場合のレンダリングの様子です。  
 更新した Counter だけが再レンダリングされ、もう一方の Counter と Header は再レンダリングされていません。
 
 <div style="text-align:center">
-  <video src="./mov/react-compiler-rendering.mov" width="90%" controls="true"></video>
+  <video src="https://github.com/hyorimitsu/tech-talk/assets/52403055/d2906d7f-a49b-409b-af57-92a1c739eb37" width="90%" controls="true"></video>
 </div><br>
 
 ※ [React Developer Tools (v5.0+)](https://react.dev/learn/react-developer-tools) では React Compiler のサポートが組み込まれており、コンパイラによって最適化されたコンポーネントについては `Memo ✨` と表示されるようになっています。
