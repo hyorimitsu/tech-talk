@@ -128,7 +128,7 @@ metadata:
 
 <div style="text-align: center;">
   <div>
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/0809_OPAonAWS/img/opa_flow.png?raw=true" width="80%" alt="opa_flow">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/0809_OPAonAWS/img/opa_flow.jpg?raw=true" width="80%" alt="opa_flow">
   </div>
   <a href="https://opaonaws.io/docs/techdocs/architecture/" target="_blank">Architecture | OPA on AWS</a> より引用
 </div><br>
