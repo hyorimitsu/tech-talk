@@ -13,6 +13,7 @@ Tech Talk
 - [Google Cloud Next '23 report](https://github.com/hyorimitsu/tech-talk/blob/main/2023/0829_GoogleCloudNext23-report/index.md)
 - [Kubernetes Operator](https://github.com/hyorimitsu/tech-talk/blob/main/2020/0525_KubernetesOperator.key)
 - [LangGraph](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0205_LangGraph/index.md)
+- [OPA(Orchestrate Platforms and Applications) on AWS](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0809_OPAonAWS/index.md)
 - [Open Sourece Summit Japan with cdCon 2023 report](https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/index.md)
 - [OpenPubkey](https://github.com/hyorimitsu/tech-talk/blob/main/2023/1010_OpenPubkey/index.md)
 - [OpenSLO](https://github.com/hyorimitsu/tech-talk/blob/main/2022/1116_OpenSLO.key)
