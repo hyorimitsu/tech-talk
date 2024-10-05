@@ -23,3 +23,4 @@ Tech Talk
 - [Stream Data Processing](https://github.com/hyorimitsu/tech-talk/blob/main/2020/0729_StreamDataProcessing.key)
 - [Temporal.io](https://github.com/hyorimitsu/tech-talk/blob/main/2022/0608_Temporalio.key)
 - [Vlang](https://github.com/hyorimitsu/tech-talk/blob/main/2019/0821_Vlang.key)
+- [WebAssembly (Wasm)](https://github.com/hyorimitsu/tech-talk/blob/main/2024/1004_Wasm/index.md)
