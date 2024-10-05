@@ -76,7 +76,7 @@ Web ブラウザ上で高パフォーマンスなアプリケーションを実�
 コンテナとの違いに違いについて簡単に紹介します。
 
 <div style="text-align: center;">
-  <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/1004_Wasm/img/wasm_vs_container.jpg?raw=true" width="80%" alt="wasm_vs_container">
+  <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/1004_Wasm/img/wasm_vs_container.png?raw=true" width="80%" alt="wasm_vs_container">
 </div><br>
 
 コンテナでは、各アプリケーションが「コンテナ」という軽量な仮想化層で隔離されています。コンテナは、ホスト OS のカーネルを共有しつつ、Userland や必要なライブラリを含んでおり、あたかも独立した OS 上で動作しているかのようにアプリケーションを実行します。各コンテナは Docker などのコンテナエンジンによって管理され、ホスト OS 上で動作します。
@@ -139,7 +139,7 @@ Module は [WebAssembly Specification](https://webassembly.github.io/spec/core/)
 [Component Model](https://github.com/WebAssembly/component-model) は以下のように構成されています。
 
 <div style="text-align: center;">
-  <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/1004_Wasm/img/wasm_component_model_structure.jpg?raw=true" width="80%" alt="wasm_component_model_structure">
+  <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/1004_Wasm/img/wasm_component_model_structure.png?raw=true" width="80%" alt="wasm_component_model_structure">
 </div><br>
 
 | 名前 | 説明 |
@@ -172,7 +172,7 @@ Module は [WebAssembly Specification](https://webassembly.github.io/spec/core/)
 
 <div style="text-align: center;">
   <div>
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/1004_Wasm/img/wasm_component_model_sample_app.jpg?raw=true" width="80%" alt="wasm_component_model_sample_app">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2024/1004_Wasm/img/wasm_component_model_sample_app.png?raw=true" width="80%" alt="wasm_component_model_sample_app">
   </div>
   <a href="https://github.com/hyorimitsu/sample-wasm-component-model" target="_blank">hyorimitsu/sample-wasm-component-model</a>
 </div><br>
