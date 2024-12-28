@@ -4,6 +4,7 @@ Tech Talk
 ## Index
 
 - [AlloyDB](https://github.com/hyorimitsu/tech-talk/blob/main/2023/0606_AlloyDB/index.md)
+- [Amazon Aurora DSQL](https://github.com/hyorimitsu/tech-talk/blob/main/2024/1226_AuroraDSQL/index.md)
 - [AutoML](https://github.com/hyorimitsu/tech-talk/blob/main/2021/0127_AutoML.key)
 - [Bootable Container Image](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0529_BootableContainerImage/index.md)
 - [Cloud Profiler](https://github.com/hyorimitsu/tech-talk/blob/main/2020/1014_CloudProfiler.key)
