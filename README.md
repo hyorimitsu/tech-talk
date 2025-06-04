@@ -11,6 +11,7 @@ Tech Talk
 - [Coq](https://github.com/hyorimitsu/tech-talk/blob/main/2019/1111_Coq.key)
 - [eBPF](https://github.com/hyorimitsu/tech-talk/blob/main/2021/1011_eBPF.key)
 - [Go 1.22 (Draft)](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0125_go1.22-draft/index.md)
+- [Go Generics Field Access with Core Type](https://github.com/hyorimitsu/tech-talk/blob/main/2025/0604_go-generics-field-access-with-core-type/index.md)
 - [Google Cloud Next '23 report](https://github.com/hyorimitsu/tech-talk/blob/main/2023/0829_GoogleCloudNext23-report/index.md)
 - [Kubernetes Operator](https://github.com/hyorimitsu/tech-talk/blob/main/2020/0525_KubernetesOperator.key)
 - [LangGraph](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0205_LangGraph/index.md)
