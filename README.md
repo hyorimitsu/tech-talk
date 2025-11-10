@@ -19,6 +19,7 @@ Tech Talk
 - [Open Sourece Summit Japan with cdCon 2023 report](https://github.com/hyorimitsu/tech-talk/blob/main/2023/1206_OSSJapan-with-cdCon2023-report/index.md)
 - [OpenPubkey](https://github.com/hyorimitsu/tech-talk/blob/main/2023/1010_OpenPubkey/index.md)
 - [OpenSLO](https://github.com/hyorimitsu/tech-talk/blob/main/2022/1116_OpenSLO.key)
+- [Physical AI](https://github.com/hyorimitsu/tech-talk/blob/main/2025/1029_physical-ai/index.md)
 - [promptfoo](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0227_promptfoo/index.md)
 - [React Compiler](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0530_ReactCompiler/index.md)
 - [Secure by Default](https://github.com/hyorimitsu/tech-talk/blob/main/2021/0721_SecureByDefault.key)
