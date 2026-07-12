@@ -13,6 +13,7 @@ Tech Talk
 - [Go 1.22 (Draft)](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0125_go1.22-draft/index.md)
 - [Go Generics Field Access with Core Type](https://github.com/hyorimitsu/tech-talk/blob/main/2025/0604_go-generics-field-access-with-core-type/index.md)
 - [Google Cloud Next '23 report](https://github.com/hyorimitsu/tech-talk/blob/main/2023/0829_GoogleCloudNext23-report/index.md)
+- [HTTP QUERY Method](https://github.com/hyorimitsu/tech-talk/blob/main/2026/0712_http-query-method/index.md)
 - [Kubernetes Operator](https://github.com/hyorimitsu/tech-talk/blob/main/2020/0525_KubernetesOperator.key)
 - [LangGraph](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0205_LangGraph/index.md)
 - [OPA(Orchestrate Platforms and Applications) on AWS](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0809_OPAonAWS/index.md)
