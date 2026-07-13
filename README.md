@@ -9,6 +9,7 @@ Tech Talk
 - [Bootable Container Image](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0529_BootableContainerImage/index.md)
 - [Cloud Profiler](https://github.com/hyorimitsu/tech-talk/blob/main/2020/1014_CloudProfiler.key)
 - [Coq](https://github.com/hyorimitsu/tech-talk/blob/main/2019/1111_Coq.key)
+- [Email Verification Protocol](https://github.com/hyorimitsu/tech-talk/blob/main/2026/0714_email-verification-protocol/index.md)
 - [eBPF](https://github.com/hyorimitsu/tech-talk/blob/main/2021/1011_eBPF.key)
 - [Go 1.22 (Draft)](https://github.com/hyorimitsu/tech-talk/blob/main/2024/0125_go1.22-draft/index.md)
 - [Go Generics Field Access with Core Type](https://github.com/hyorimitsu/tech-talk/blob/main/2025/0604_go-generics-field-access-with-core-type/index.md)
