@@ -48,7 +48,7 @@ EVP には、主に次の 3 つの要素が登場します。
 
 <div style="text-align:center">
   <div>
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2026/0714_email-verification-protocol/img/traditional-email-verification-flow?raw=true" width="90%" alt="traditional-email-verification-flow">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2026/0714_email-verification-protocol/img/traditional-email-verification-flow.png?raw=true" width="90%" alt="traditional-email-verification-flow">
   </div>
 </div><br>
 
@@ -57,7 +57,7 @@ EVP では、ブラウザが Issuer から署名付きの Email Verification Tok
 
 <div style="text-align:center">
   <div>
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2026/0714_email-verification-protocol/img/email-verification-protocol-sequence?raw=true" width="90%" alt="email-verification-protocol-sequence">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2026/0714_email-verification-protocol/img/email-verification-protocol-sequence.png?raw=true" width="90%" alt="email-verification-protocol-sequence">
   </div>
 </div><br>
 
@@ -109,7 +109,7 @@ Issuer は、その一時公開鍵を `cnf.jwk` claim として EVT に含め、
 
 <div style="text-align:center">
   <div>
-    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2026/0714_email-verification-protocol/img/evt-kb-jwt-key-binding?raw=true" width="90%" alt="evt-kb-jwt-key-binding">
+    <img src="https://github.com/hyorimitsu/tech-talk/blob/main/2026/0714_email-verification-protocol/img/evt-kb-jwt-key-binding.png?raw=true" width="90%" alt="evt-kb-jwt-key-binding">
   </div>
 </div><br>
 
